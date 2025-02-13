@@ -47,3 +47,4 @@ jobs:
         run: |
           pytest tests/  # Adjust this path if necessary to your test folder
 
+#task completed for assignment6
